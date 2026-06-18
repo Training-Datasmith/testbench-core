@@ -1,6 +1,7 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
     "name": "orchestra/testbench-core",
+    "version": "10.14.1",
     "description": "Testing Helper for Laravel Development",
     "homepage": "https://packages.tools/testbench",
     "keywords": ["laravel", "laravel-packages", "testing", "tdd", "bdd", "dev"],
